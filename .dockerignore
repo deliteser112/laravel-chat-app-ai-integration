@@ -1,0 +1,10 @@
+.git
+node_modules
+vendor
+storage
+public/storage
+public/hot
+npm-debug.log*
+yarn-error.log*
+*.log
+.DS_Store

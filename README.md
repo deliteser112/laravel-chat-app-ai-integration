@@ -1,6 +1,6 @@
-# Dockerized Laravel Dev Stack
+# Laravel Chat App with AI integration
 
-This repository provides a Docker setup and Makefile to run a Laravel app with Redis and a Pusher‑compatible websockets server (Soketi). It also includes handy `make` commands for building, starting, migrating, seeding, testing, and viewing logs.
+This repository is Chat App which provides a Docker setup and Makefile to run a Laravel app with Redis and a Pusher‑compatible websockets server (Soketi). It also includes handy `make` commands for building, starting, migrating, seeding, testing, and viewing logs.
 
 ---
 
